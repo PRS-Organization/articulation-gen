@@ -1,8 +1,8 @@
-# Articulation-Gen: 3D Part Segmentation and Articulated Object Generation
+# Articulation-Gen: 3D Part Segmentation and Articulated Object Generation (coming soon!)
 
 [![Hugging Face](https://img.shields.io/badge/Model-HuggingFace-blue)](https://huggingface.co/your-model-repo) [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 Articulation-Gen integrates 3D semantic segmentation, physics-guided joint optimization, and LLM-augmented URDF synthesis, complemented by a large-scale hinge asset dataset, to generate physically compliant multi-joint 3D objects.
-**Articulation-Gen** is an open-source framework for 3D part segmentation and articulated object generation, featuring:  
+**Articulation-Gen** (coming soon!) is an open-source framework for 3D part segmentation and articulated object generation, featuring:  
 - A complete 3D asset generation pipeline  
 - Deep learning-based semantic segmentation  
 - Automatic joint generation for articulated objects
